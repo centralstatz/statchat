@@ -9,9 +9,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: pricing.qmd
+        text: Pricing
     right: 
-      - href: "#"
+      - href: /app/
         text: Login
+      - href: /app/
+        text: Sign Up
   page-footer: 
     left: "© 2025 CentralStatz Statistical & Data Sciences LLC" 
     right: "statchat.centralstatz.com"

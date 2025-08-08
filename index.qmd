@@ -1,7 +1,18 @@
 ---
-title: "statchat"
+title: ""
+format: 
+  html:
+    page-layout: full
 ---
 
-This is a Quarto website.
+::: {.hero} 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Statistical Consulting Made Easy
+
+AI-assisted statistical consulting service with human-in-the-loop.
+
+Get expert-guided statistical analysis without the delays or cost of traditional consulting.
+
+[Get Started](#){.btn .btn-primary}
+
+:::

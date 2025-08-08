@@ -2,17 +2,24 @@ project:
   type: website
 
 website:
-  title: "statchat"
+  title: "StatChat by CentralStatz"
+  site-url: https://statchat.centralstatz.com
+  repo-url: https://github.com/centralstatz/statchat
   navbar:
     left:
       - href: index.qmd
         text: Home
+    right: 
+      - href: "#"
+        text: Login
+  page-footer: 
+    left: "© 2025 CentralStatz Statistical & Data Sciences LLC" 
+    right: "statchat.centralstatz.com"
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.scss
-    toc: true
 
 
 

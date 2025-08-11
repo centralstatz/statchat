@@ -1,18 +1,84 @@
 ---
 title: ""
-format: 
-  html:
-    page-layout: full
 ---
 
 ::: {.hero} 
 
-# Statistical Consulting Made Easy
+# Statistical Consulting Made Easy.
 
-AI-assisted statistical consulting service with human-in-the-loop.
-
-Get expert-guided statistical analysis without the delays or cost of traditional consulting.
+AI-assisted statistical advice guided by human experts
 
 [Get Started](#){.btn .btn-primary}
+
+:::
+
+<center style = 'font-size:150%'>
+
+![](assets/computer.png)
+
+::: divider
+:::
+
+The best of both worlds.
+
+</center>
+
+<center>
+
+Whether it's a quick question about interpretation, code or methodology, or a full statistical project, _StatChat_ can help you hit the ground running--taking advantage of the breadth of knowledge in modern GPT's while maintaining accuracy and confidence by having a professional statistician by your side every step of the way.
+
+</center>
+
+<br>
+
+::: {.grid}
+
+::: {.g-col-6}
+
+<center>
+
+![](assets/user-check-solid-full.svg){.mb-3 width="60"}
+
+**Expert review through set checkpoints or ad-hoc requests**
+
+</center>
+
+:::
+
+::: {.g-col-6}
+
+<center>
+
+![](assets/clock-regular-full.svg){.mb-3 width="60"}
+
+**Make progress in minutes, not weeks or months**
+
+</center>
+
+:::
+
+::: {.g-col-6}
+
+<center>
+
+![](assets/money-check-dollar-solid-full.svg){.mb-3 width="60"}
+
+**Save on cost from traditional statistical consulting**
+
+</center>
+
+:::
+
+::: {.g-col-6}
+
+<center>
+
+![](assets/book-open-solid-full.svg){.mb-3 width="60"}
+
+**Develop your statistical literacy**
+
+</center>
+
+:::
 
 :::

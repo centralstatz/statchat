@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://statchat.centralstatz.com/docs.html</loc>
+    <lastmod>2025-08-11T17:52:00.517Z</lastmod>
+  </url>
+  <url>
     <loc>https://statchat.centralstatz.com/index.html</loc>
-    <lastmod>2025-08-08T21:19:25.373Z</lastmod>
+    <lastmod>2025-08-11T17:47:28.239Z</lastmod>
   </url>
   <url>
     <loc>https://statchat.centralstatz.com/pricing.html</loc>
     <lastmod>2025-08-08T21:37:45.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://statchat.centralstatz.com/app.html</loc>
+    <lastmod>2025-08-11T17:50:37.158Z</lastmod>
   </url>
 </urlset>

@@ -1,24 +1,26 @@
 project:
   type: website
 
+brand: brand/_brand.yml
+
 website:
   title: "StatChat by CentralStatz"
   site-url: https://statchat.centralstatz.com
   repo-url: https://github.com/centralstatz/statchat
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
       - href: pricing.qmd
         text: Pricing
+      - href: docs.qmd
+        text: Docs
     right: 
-      - href: /app/
+      - href: app.qmd
         text: Login
-      - href: /app/
-        text: Sign Up
   page-footer: 
-    left: "© 2025 CentralStatz Statistical & Data Sciences LLC" 
-    right: "statchat.centralstatz.com"
+    center: "© 2025 CentralStatz Statistical & Data Sciences LLC"
 
 format:
   html:

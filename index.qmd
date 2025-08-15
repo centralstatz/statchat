@@ -4,9 +4,9 @@ title: ""
 
 ::: {.hero} 
 
-# Statistical Consulting Made Easy.
+# Statistical Consulting Made Easy
 
-AI-assisted statistical advice guided by human experts
+AI-assisted statistical advice guided by human experts.
 
 [Get Started](#){.btn .btn-primary}
 
@@ -39,7 +39,9 @@ Whether it's a quick question about interpretation, code or methodology, or a fu
 
 ![](assets/user-check-solid-full.svg){.mb-3 width="60"}
 
-**Expert review through set checkpoints or ad-hoc requests**
+**Expert Review**
+
+Receive incremental feedback through set checkpoints or ad-hoc requests
 
 </center>
 
@@ -51,7 +53,9 @@ Whether it's a quick question about interpretation, code or methodology, or a fu
 
 ![](assets/clock-regular-full.svg){.mb-3 width="60"}
 
-**Make progress in minutes, not weeks or months**
+**Accelerate Progress**
+
+Instantaneous progress toward your goals--not weeks or months
 
 </center>
 
@@ -63,7 +67,9 @@ Whether it's a quick question about interpretation, code or methodology, or a fu
 
 ![](assets/money-check-dollar-solid-full.svg){.mb-3 width="60"}
 
-**Save on cost from traditional statistical consulting**
+**Cost Savings**
+
+AI does much of the work, meaning less billable hours from experts
 
 </center>
 
@@ -75,7 +81,9 @@ Whether it's a quick question about interpretation, code or methodology, or a fu
 
 ![](assets/book-open-solid-full.svg){.mb-3 width="60"}
 
-**Develop your statistical literacy**
+**Skills Development**
+
+Transparent problem solving means you see all the details, instead of hand-offs of major tasks
 
 </center>
 
